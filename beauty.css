@@ -1,0 +1,58 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.container {
+    height: 100%;
+    width: 100%;
+    background: rgba(190, 207, 212, 0.644);
+    overflow: hidden;
+}
+.header {
+    height: 15%;
+    width: 100%;
+    background: rgba(255, 250, 250, 0.815);
+    display: flex;
+    /* justify-items: space-between; */
+}
+.beauty {
+    background: url("beauty.jpg");
+    font-size: 20px;
+    height: 90%;
+    width: 218px;
+    background-size: cover;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.makeup,
+.skincare,
+.brushes,
+.makeupkits,
+.more {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:grey;
+    margin-left:45px;
+    margin-top: 45px;
+}
+.makeup {
+    margin-left:80px;
+}
+.icon {
+    font-size: 55px;
+    margin-top: 25px;
+    margin-left: 75px
+}
+.shoppingcart {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.makeup:hover,
+.skincare:hover,
+.brushes:hover,
+.makeupkits:hover,
+.more:hover,
+.shoppingcart:hover,
+.icon:hover {
+    color:lightpink;
+}

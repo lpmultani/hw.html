@@ -1,0 +1,108 @@
+.container {
+    width: 100%;
+    height:auto;
+    position: absolute;
+    top:0;
+    left:0;
+    overflow: hidden;
+}
+.row {
+    width: 100%;
+    height: auto;
+    clear:both;
+    padding:5px;
+}
+.red {
+    height:35px;
+    background:#a00;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.box {
+    /* background:rgba(180,50,70,1); */
+    height: 100%;
+    width:250px;
+    display:flex;
+    justify-content: space-between;
+}
+.inner_box {
+    height:100%;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    color:#fff;
+}
+.one {
+    width: 25%;
+}
+.two {
+    width: 75%;
+}
+.row2 {
+    height:15%;
+    width: 100%;
+    display:flex;
+    /* justify-content: center; */
+    /* align-items:center; */
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+.protaxcanada {
+    height: 115px;
+    width: 500px;
+    display: flex;
+    background-size: cover;
+}
+.protaxcanada img{
+    height: 80px;
+    width: 480px;
+}
+.home {
+    height: 75px;
+    width: 100px;
+    font-size: 22px;
+    display:flex;
+    /* justify-content: center; */
+}
+.services {
+height: 75px;
+width: 100px;
+font-size:20px;
+display:flex;
+}
+.rates {
+    height: 75px;
+width: 100px;
+font-size:20px;
+display:flex;
+}
+.taxtips {
+    height: 75px;
+width: 100px;
+font-size:20px;
+display:flex;
+}
+.aboutus {
+    height:75px;
+width: 100px;
+font-size:20px;
+display:flex;
+}
+.contactus {
+    height: 75px;
+width: 100px;
+font-size:20px;
+display:flex;
+}
+@media screen and (min-width:300px) and (max-width:900px) {
+    body{
+        background: green;
+    }
+    .row2 {
+        width: 100%;
+        flex-direction: column;
+        background: blue;
+    }
+}

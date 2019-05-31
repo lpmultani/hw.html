@@ -1,0 +1,44 @@
+.container {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top:0;
+    left:0;
+}
+ul {
+    list-style-type: circle;
+    margin:0;
+    padding:0;
+}
+ul li {
+    height:auto;
+    width: 200px;
+    background: brown;
+    color:black;
+    text-align: center;
+    padding: 10px 0px;
+    position: relative;
+    left:-10%;
+    transition: all 0.25s ease-in-out 0s;
+    }
+    ul li :: after {
+        content: '';
+        position: relative;
+        right:-10%;
+        top:-2%;
+        /* width: 0px; */
+        /* height: 0px; */
+        /* border-style:solid; */
+        /* border-width: 200px; */
+        /* border-color:transparent transparent transparent #f05; */
+        /* border-color: black; */
+        transition: all 1s ease-in-out 0s;
+    }
+    ul li:hover::after {
+        /* border-color:transparent transparent black transparent; */
+        /* right:0; */
+    }
+    ul li:hover {
+        left: 10;
+        background: #00f;
+    }

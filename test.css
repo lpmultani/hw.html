@@ -1,0 +1,24 @@
+.container{
+    height: 500px;
+    width: 100%;
+    border: 1px solid red;
+
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background: red;
+    position: relative;
+}
+
+.hover{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background: rgba(0, 0, 255, 0.404);
+    display: none;
+}
+
+.box:hover .hover{
+    display: block;
+}

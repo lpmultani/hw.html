@@ -1,0 +1,30 @@
+.middle {
+    height: 100%;
+    width: 100%;
+    background-color: aliceblue;
+    position: relative;
+}
+.middle1 {
+    height: 50%;
+    width: 30%;
+    background-color: brown;
+    position: absolute;
+    top:50px;
+    left:20px;
+}
+.middle2 {
+    height: 40%;
+    width: 20%;
+    background-color: brown;
+    position: absolute;
+    top:50px;
+    left:48%;
+}
+.middle3 {
+    height: 40%;
+    width: 20%;
+    background-color: brown;
+    position: absolute;
+    top:50px;
+    left:75%;
+}

@@ -1,0 +1,31 @@
+.container {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+.div {
+    height: 100%;
+    width: 100%;
+    background-size: cover;  
+    background-attachment: fixed;
+}
+.one {
+    position: absolute;
+    top:0px ;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/4/42/Shaqi_jrvej.jpg')
+}
+.two {
+    position: absolute;
+    top: 100%;
+    background-image: url('http://isha.sadhguru.org/blog/wp-content/uploads/2016/05/natures-temples.jpg')
+}
+.three {
+    position: absolute;
+    top: 200%;
+    background-image: url('https://images.france.fr/zeaejvyq9bhj/2xwcRbXG0IoQIqw42g2w0C/34a143432d9da929e818a81edf16e0c3/1120x490_Nature.jpg?w=1120&h=491&q=70&fl=progressive&fit=fill')
+}
+.four {
+    position: absolute;
+    top:300%;
+    background-image: url('https://wxv73zw8wg-flywheel.netdna-ssl.com/wp-content/uploads/2018/10/1-Carol-Quinn-Hiker-at-Gwillim-Lake-Summit-1024x546.png')
+}

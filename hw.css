@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    height: 100%;
+    width: 100%;
+    background-image: radial-gradient(blue,black);
+    overflow: hidden;
+}
+.text {
+    font-size:85px;
+    color:grey;
+    margin-top:40px;
+    margin-left:165px;
+    overflow: hidden;
+    transition: all 2s;
+}
+.earth {
+    background: url('https://muslimmatters.org/wp-content/uploads/planet_earth-13848.jpg');
+    height: 300px;
+    width: 300px;
+    background-size:cover;
+    margin-left: 582px;
+    margin-top:20px;
+    border-radius:50%;
+    transition: all 3s;
+}
+.earth:hover {
+transform: rotate(360deg);
+}
+.text:hover {
+    transform:scale(1.2);
+    margin-right: 40px;
+    text-shadow: 10px;
+    font-size:90px;
+}
+.water {
+    background: url('http://images.huffingtonpost.com/2016-08-17-1471397025-8045409-waterconservationintheourplanetusas.jpg');
+    height: 280px;
+    width: 280px;
+    background-size:cover;
+    margin-top:8px;
+    margin-left:40px;
+    border:5px solid black;
+}
+.tree {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMoFdtn1WhCQvFkj2f22oVJWqfLLj5pe2U0QUMHMoe3A5aQOvVdA');
+    height: 280px;
+    width: 280px;
+    background-size:cover;
+    margin-top:-279px;
+    margin-left:427px;
+    border:5px solid black;
+}
+.electricity {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMBSsHfmdcwyk6PfMn-JPRPuIaEWa3P1f__0EGjBpwpikx6tGmQ');
+    height: 280px;
+    width: 280px;
+    background-size:cover;
+    margin-top:-280px;
+    margin-left:814px;
+    border: 5px solid black;
+}
+.fuel {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOQM1GdYfgmhfxAYXGMke7DF7YpmDOBF6LoVZYKBdnz_DJHdgl');
+    height: 280px;
+    width: 280px;
+    background-size:cover;
+    margin-top:-280px;
+    margin-left:1215px;
+    border:5px solid black;
+}

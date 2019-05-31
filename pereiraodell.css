@@ -1,0 +1,605 @@
+.container {
+    height: 94%;
+    width: 100%;
+    background-color: aliceblue;
+    position: relative;
+}
+.container1 {
+    height: 400px;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+}
+.left {
+    height: 200px;
+    width: 400px;
+    position: absolute; 
+}
+.left img {
+    height: 100px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 50px;
+    position: absolute;
+}
+.right {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top:-94px;
+    left:1204px;
+    font-size: 40px;
+    color:aliceblue;
+}
+/* p { */
+    /* height: 40px; */
+    /* width: 40px; */
+    /* color:wheat; */
+    /* position: absolute; */
+    /* top:200px; */
+    /* left:400px; */
+/* } */
+.container2 {
+    height: 400px;
+    width: 80%;
+    background-color: black;
+    margin: auto;
+    position: absolute;
+    top:200px;
+    left:75px;
+    right:75px;
+}
+.text {
+    font-size:40px;
+    color:wheat;
+    margin-top: 28px;
+    margin-left: 52px;
+}
+.text2 {
+    font-size:80px;
+    color:peru;
+    margin-top: 15px;
+    margin-left: 52px;
+}
+.container3 {
+    height: 165px;
+    width: 258px;
+    background-color: black;
+    position: absolute;
+    top: 520px;
+    left: 1061px;
+}
+.container4 {
+    height: 85%;
+    width: 100%;
+    background-color:aliceblue;
+    position: relative;
+    top:754px;
+}
+.text3 {
+    font-size:90px;
+    color:black;
+    margin-top: 10px;
+    margin-left: 75px;
+}
+.text4 {
+    color:black;
+}
+.text5 {
+    font-size:40px;
+    color:black;
+    margin-top:100px;
+    margin-left: 570px;
+}
+.container5 {
+    height:650px;
+    width: 100%;
+    background-color: black;
+    position:relative;
+    top:825px;
+    background: url('o.jpg');
+
+    }
+.text6 {
+    font-size:125px;
+    color:white;
+    margin-top: 144px;
+    margin-left: 18px;
+    position: absolute;
+    
+}
+.text7 {
+    font-size:40px;
+    color:wheat;
+    margin-top: 28px;
+    margin-left: 52px;
+    position: absolute;
+
+}
+.container6 {
+    height: 125px;
+    width: 200px;
+    background-color: black;
+    position: absolute;
+    top:290px;
+    left:1148px;
+}
+.container7 {
+    height: 500px;
+    width: 100%;
+    background-color:white;
+    position: relative;
+    top:840px;
+}
+.left7 {
+    height:500px;
+    width: 50%;
+    background-color: black;
+    position:absolute;
+    top:150px;
+    left:50px;
+    right:50px;
+    bottom:50px;
+    background: url('image3.jpg');
+
+}
+.text8{
+    font-size:125px;
+    color:wheat;
+    margin-top: 52px;
+    margin-left: 144px;
+    position: absolute;
+}
+.right7 {
+    height:500px;
+    width: 50%;
+    background-color:white;
+    position:absolute;
+    top:150px;
+    left:767px;
+    right:50px;
+    bottom:50px;
+}
+.container8 {
+    height: 500px;
+    width: 40%;
+    position:absolute;
+    top:2755px;
+    left:814px;
+    /* right:50px; */
+    /* bottom:50px; */
+    background:url('image4.jpg');
+}
+.text0 {
+    margin-top: 468px;
+    margin-left: 50px;
+}
+.text00 {
+    margin-top: -15px;
+}
+.container9 
+{
+    height: 157px;
+    width: 256px;
+    position: relative;
+    top:478px;
+    left:330px;
+    background-color: black;
+}
+.container10 {
+    height: 500px;
+    width: 85%;
+    position: relative;;
+    top:-616px;
+    left:-672px;
+    /* right:50px; */
+    /* bottom:50px; */
+    background:url('image5.jpg');
+}
+.container11 {
+    height: 157px;
+    width: 256px;
+    position: relative;
+    top:478px;
+    left:242px;
+    background-color: black;
+}
+.container12 {
+    height: 350px;
+    width: 100%;
+    position: relative;
+    left: -615px;
+    top:-134px;
+    
+
+}
+.text000 {
+    margin-top:-132px;
+    margin-left: -88px;
+    color: peru;
+}
+.container13 {
+    height: 126px;
+    width: 240px;
+    background-color: black;
+    position: relative;
+    left: 800px;
+    top:-260px;
+}
+.text0000 {
+    font-size: 36px;
+}
+.container14 {
+    height: 300px;
+    width: 100%;
+    position: relative;
+    top:-90px;
+    left:-396px;
+}
+.icon {
+    font-size: 210px;
+    margin-left: 69px;
+}
+.container15 {
+    height: 500px;
+    width: 65%;
+    position: relative;
+    top:2925px;
+    /* left:20px; */
+    background: url('image8.jpg')
+}
+.textt {
+    margin-top:-81px;
+}
+.container16 {
+    height:145px;
+    width: 255px;
+    background-color:black;
+    position: relative;
+    top:-48px;
+    left:698px;
+}
+.text00000 {
+    font-size: 55px;
+    color: black;
+    position: relative;
+    /* margin-top: -115px; */
+    /* margin-left: 1000px; */
+    /* display: flex; */
+    font-weight:bold;
+}
+.container17 {
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: -40px;
+    left:1015px;
+    }
+    .container18        
+    {
+        height: 200px;
+        width: 100%;
+        position: relative;
+        top:20px;
+        left:504px;
+        background-color: aliceblue;
+        
+    }
+    .photo {
+        height: 200px;
+        width: 372px;
+        position: relative;
+        left:577px;
+        background-size: cover;
+        background-image: url(image10.jpg);
+    }
+    .t {
+        /* height: 100px; */
+        width: 341px;
+        font-size: 30px;
+        color: #000;
+        font-weight: bold;
+        position: relative;
+        left:107px;
+        top:-171px;
+}
+.container19 {
+    height: 200px;
+    width: 100%;
+    position: relative;
+    top:20px;
+    left:504px;
+    background-color: aliceblue;
+    margin-top: 10px;
+}
+.photo2 {
+        height: 200px;
+        width: 372px;
+        position: relative;
+        left:577px;
+        background-size: cover;
+        background-image: url(image11.jpg);
+}
+.tt {
+    width: 328px;
+    font-size: 30px;
+    color: #000;
+    font-weight: bold;
+    position: relative;
+    left:107px;
+    top:-171px;
+}
+.container20 {
+    height: 500px;
+    width: 151%;
+    background-color: white;
+    position:relative;
+    margin-top: 10px;
+
+}
+.awards {
+    font-size: 90px;
+    color: #000;
+    position: relative;
+    top: 20px;
+    left:20px;
+    font-weight: bold;
+}
+.awards1 {
+    font-size: 40px;
+    color:black;
+    position: relative;
+    top:-27px;
+    left:417px;
+    width:50%;
+}
+.a1 {
+    height: 250px;
+    width: 100%;
+    position: relative;
+    top:20px;
+    left:20px;
+    background-size: cover;
+    background-image: url(a1.jpg);
+}
+.container21 {
+    height: 500px;
+    width: 154%;
+    background: url(people.jpg);
+    position: relative;
+    top:55px;
+}
+.people {
+    height: 200px;
+    width: 200px;
+    color:white;
+    font-size:100px;
+    font-weight: bold;
+    position: relative;
+    left:150px;
+    top:140px;
+}
+.meettheteam {
+    height: 200px;
+    width: 400px;
+    background-color: #000;
+    position: relative;
+    top:-45px;
+    left:1000px;
+}
+.mtt {
+    font-size: 40px;
+    color: wheat;
+    position: relative;
+    top:65px;
+    left:20px;
+}
+.container22 {
+    height: 500px;
+    width: 118%;
+    position: relative;
+    top:20px;
+    left:20px;
+    display:flex;
+}
+.sf {
+    height: 100px;
+    width: 116px;
+    background: url(s.svg);
+    background-size:cover;
+    position: relative;
+    top:100px;
+    left:200px;
+
+}
+.sftext {
+    font-size: 50px;
+    height: 300px;
+    width: 50%;
+    position:relative;
+    top: 195px;
+    left:75px;
+}
+.ny {
+    height: 100px;
+    width: 116px;
+    background: url(n.nvg.svg);
+    background-size:cover;
+    position: relative;
+    top:100px;
+    left:200px;
+}
+.nytext {
+    font-size: 50px;
+    height: 300px;
+    width: 50%;
+    position:relative;
+    top: 195px;
+    left:75px;
+}
+.container23 {
+    height: 200px;
+    width: 100%;
+    position: relative;
+    top:10px;
+}
+.text23 {
+    font-size: 65px;
+    width: 100%;
+    position: relative;
+    top:20px;
+    left:200px;
+    color: #000;
+    text-align: center;
+    text-decoration: underline;
+}
+.footer {
+    height: 500px;
+    width: 154%;
+    background-color: #000;
+    position: relative;
+    /* top:10px; */
+    /* left:10px; */
+    display: flex;
+}
+ul {
+    list-style-type: none;
+    /* margin:0; */
+    /* padding:0; */
+    /* position: relative; */
+    /* top:20px; */
+    /* left:50px; */
+    /* height: 400px; */
+    /* width: 20%; */
+}
+ul li {
+    color:aliceblue;
+    height: 30px;
+    width: auto;
+    position: relative;
+    top:72px;
+    left:75px;
+    text-align: center;
+    font-size:40px;
+}
+.explore {
+    font-size: 25px;
+    color:wheat;
+    position: relative;
+    top:65px;
+    left:82px;
+}
+.locations {
+font-size:25px;
+color:wheat;
+position: relative;
+top:78px;
+left:204px;
+}
+.sfaddress {
+    font-size:20px;
+    color:aliceblue;
+    position: relative;
+    top:130px;
+    left:28px;
+    width: 20%;
+}
+.nyaddress {
+    font-size:20px;
+    color:aliceblue;
+    position: relative;
+    top:28px;
+    left:0px;
+    width: 100%;
+}
+.contact {
+font-size:25px;
+color:wheat;
+position: relative;
+top:78px;
+left:108px;
+}
+.contactdetails {
+    font-size:20px;
+    color:aliceblue;
+    position: relative;
+    top:130px;
+    left:-24px;
+    width: 16%;
+}
+.marketing {
+    font-size:20px;
+    color:aliceblue;
+    position: relative;
+    top:130px;
+    left:10px;
+    width: 15%;
+}
+.career {
+    font-size:20px;
+    color:aliceblue;
+    position: relative;
+    top:126px;
+    left:47px;
+    width: 10%;
+}
+.llc {
+font-size:10px;
+color:aliceblue;
+position: relative;
+top:100px;
+left:2px;
+}
+.rights {
+font-size:10px;
+color:aliceblue;
+position: relative;
+top:88px;
+left:250px;
+}
+.services {
+    font-size:10px;
+color:aliceblue;
+position: relative;
+top:76px;
+left:355px;
+}
+.privacy {
+    font-size:10px;
+color:aliceblue;
+position: relative;
+top:64px;
+left:435px;
+}
+.fb {
+    font-size:20px;
+    position: relative;
+    top:48px;
+    left:555px;
+}
+.twitter {
+    font-size:20px;
+    position:relative;
+    top:28px;
+    left:598px;
+}
+.instagram {
+    font-size:20px;
+    position: relative;
+    top:8px;
+    left:638px;
+}
+.youtube {
+    font-size:20px;
+    position: relative;
+    top:-11px;
+    left:677px;
+}
+.abc {
+    height: 80px;
+    width: 92px;
+    background: url('abc.jpg');
+    position: relative;
+    top:400px;
+    left:-650px;
+}
